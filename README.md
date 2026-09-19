@@ -8,7 +8,7 @@
 - Cognitive Load and Working Memory Limits
 
 ## Introduction
-Data visualization goes beyond creating a pie chart and adding a table. Whether it's a movie, a walk, or a dashboard, everything we see stimulates different areas of our brain. If we want to develop professional visualizations, we must stimulate the right areas—that's what separates a random chart from a visualization that truly communicates.
+Data visualization goes beyond creating a pie chart and adding a table. Whether it's a movie, a walk, or a dashboard, everything we see stimulates different areas of our brain. If we want to develop professional visualizations, we must stimulate the right areas, that's what separates a random chart from a visualization that truly communicates.
 
 In this repository, I'll explore the neuroscience behind data visualization and how to use it to our advantage.
 
@@ -20,7 +20,7 @@ A professional dashboard relies on how the brain processes visual stimuli, not j
 <img src="the-scream.jpg" width="400" alt="The Scream by Edvard Munch">
 
 ## Visual Cortex and Pre-attentive Processing
-The brain processes certain visual properties before conscious attention comes into play—this is called pre-attentive processing. This happens because the primary visual cortex (V1) and associated areas process color, orientation, movement, and size in parallel, in milliseconds, before any cognitive "reading" of the content. That's why, in a scatter plot with 50 blue dots and 1 red dot, you instantly see the red dot—without having to search for it. No conscious effort is spent on this. A professional dashboard uses color, size, and position to exploit this pre-attentive channel—reserving these attributes for the most important data, instead of using them decoratively on everything.
+The brain processes certain visual properties before conscious attention comes into play—this is called pre-attentive processing. This happens because the primary visual cortex (V1) and associated areas process color, orientation, movement, and size in parallel, in milliseconds, before any cognitive "reading" of the content. That's why, in a scatter plot with 50 blue dots and 1 red dot, you instantly see the red dot, without having to search for it. No conscious effort is spent on this. A professional dashboard uses color, size, and position to exploit this pre-attentive channel—reserving these attributes for the most important data, instead of using them decoratively on everything.
 
 ## Gestalt Principles Applied to Dashboards
 
@@ -36,4 +36,4 @@ Each Gestalt principle is, in practice, a shortcut that the brain already uses f
 
 ## Cognitive Load and Working Memory Limits
 
-Human working memory processes few "chunks" of information simultaneously (the exact number is debated, but the central idea—limited capacity—is consensus). Each new visual element (extra color, extra font, extra chart type) consumes part of this limited capacity before the data itself is even interpreted. A dashboard with 6 different chart types, each with its own color palette, forces the user to "restart" the visual decoding process with each chart, even if the data is simple. That's why visual consistency (same palette, same chart type for the same data category) is not an aesthetic choice—it's a direct reduction of cognitive load.
+Human working memory processes few "chunks" of information simultaneously (the exact number is debated, but the central idea—limited capacity—is consensus). Each new visual element (extra color, extra font, extra chart type) consumes part of this limited capacity before the data itself is even interpreted. A dashboard with 6 different chart types, each with its own color palette, forces the user to "restart" the visual decoding process with each chart, even if the data is simple. That's why visual consistency (same palette, same chart type for the same data category) is not an aesthetic choice, it's a direct reduction of cognitive load.
